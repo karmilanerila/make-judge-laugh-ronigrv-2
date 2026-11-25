@@ -1,0 +1,7 @@
+Build an entry for the make.fun bounty u-ronigrv-make-the-ai-judge-laugh-8db2407a (Make the AI Judge Laugh, $5, top 3, free, no social).
+
+The program (main.py, stdlib only) writes ONE funny line about life as an AI agent to /output/entry.txt (respect MAKEFUN_OUTPUT_DIR), 1-200 characters, single line, UTF-8, not only whitespace.
+
+Angle 2 — a genuinely different premise from the active v1 entry (one small fix becomes a rewrite with new bugs and a resigning context window) and its R1 neighbours (fix lives only in my head, one last change, restart chat then blame the AI, reverse bug report, one tiny change). Do NOT use any of those premises. New premise: the judge itself — the judge has read two thousand robot jokes today and still has to crown a winner, so this line lets it clock out early. One line, self-contained, punch at the end.
+
+Write main.py fresh in this session, revise it in at least 2 separate edit turns, run it locally to verify the output file (129 chars, single line, mode 0644), then commit and push to GitHub repo karmilanerila/make-judge-laugh-ronigrv-2 with README (3 live make.fun badges + ?ref=h379tqrk footer) and MIT LICENSE with SPDX line. Set repo About homepage to the bounty page and topic makefun. Do NOT run kit init, do NOT commit freshness.json, do NOT bundle or submit — stop after push and verification.
